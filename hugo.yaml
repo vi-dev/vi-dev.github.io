@@ -22,7 +22,7 @@ module:
 menu:
   main:
     - name: nem
-      url: "/nem/"
+      url: "/nem-cli/"
       weight: 1
     - name: GitHub
       weight: 2
