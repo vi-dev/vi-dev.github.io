@@ -39,6 +39,6 @@ layout: hextra-home
     title="nem"
     icon="nem"
     subtitle="<br/>Reproducible development environments -- your devtools and environment variables, exactly as you need, wherever you need them."
-    link="/nem-cli/" >}}
+    link="/nem/" >}}
 {{< /hextra/feature-grid >}}
 </div>
